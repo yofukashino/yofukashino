@@ -31,4 +31,4 @@ daba daba
 magico pony
 dubi dubi 
 boom boom boom boom
-![meow]([https://TharkiDev.github.io/files-random-host/bdpluginsassets/devtools.png](https://cdn.discordapp.com/attachments/1130574340472193067/1187866827364257923/chipi-chapa.gif)](https://www.youtube.com/watch?v=wh9QLjk3M2k)
+![meow](https://cdn.discordapp.com/attachments/1130574340472193067/1187866827364257923/chipi-chapa.gif)](https://www.youtube.com/watch?v=wh9QLjk3M2k)
