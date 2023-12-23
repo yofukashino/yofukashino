@@ -25,7 +25,8 @@
 
 
 <a href="https://www.youtube.com/watch?v=wh9QLjk3M2k" style="color: rgb(255, 225, 255); text-decoration: none;"><i>chipi chipi<br>chapa chapa<br>dubi dubi<br>daba daba<br>magico pony<br>dubi dubi<br>boom boom boom boom<br></i>
-![meow](https://cdn.discordapp.com/attachments/1130574340472193067/1187866827364257923/chipi-chapa.gif)</a>
+
+![meow](https://cdn.discordapp.com/attachments/1130574340472193067/1187866827364257923/chipi-chapa.gif) </a>
 
 
 
