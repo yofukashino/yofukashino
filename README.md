@@ -15,20 +15,21 @@
 > "LAH"
 
 
-## Having a [cute girlfriend](https://tharki-god.github.io/cutie) Like I do makes you code better apparently
+## Having a <span style="color: rgb(255, 225, 255);">[cute girlfriend](https://tharki-god.github.io/cutie)</span> Like I do makes you code better apparently
 
 
->>> btw check my [profile page on github.io](https://tharki-god.github.io/)
+>> btw check my <span style="color: rgb(255, 225, 255);">[profile page on github.io](https://tharki-god.github.io/)</span>
 
 --->
 
 
 
-[chipi chipi 
-chapa chapa 
-dubi dubi 
-daba daba 
-magico pony
-dubi dubi 
-boom boom boom boom
-![meow](https://cdn.discordapp.com/attachments/1130574340472193067/1187866827364257923/chipi-chapa.gif)](https://www.youtube.com/watch?v=wh9QLjk3M2k)
+<a href="https://www.youtube.com/watch?v=wh9QLjk3M2k" style="color: rgb(255, 225, 255); text-decoration: none;"><i>chipi chipi<br>chapa chapa<br>dubi dubi<br>daba daba<br>magico pony<br>dubi dubi<br>boom boom boom boom<br></i>
+![meow](https://cdn.discordapp.com/attachments/1130574340472193067/1187866827364257923/chipi-chapa.gif)</a>
+
+
+
+# <span style="color: rgb(13, 17, 23);">USE DARK MODE BTW</span>
+
+
+on side note who even uses emojis? 💀
