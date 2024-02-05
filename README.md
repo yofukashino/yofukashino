@@ -15,7 +15,7 @@
 > "LAH"
 
 
-## Having a <span style="color: rgb(255, 225, 255);">[cute girlfriend](https://tharki-god.github.io/cutie)</span> Like I do makes you code better apparently
+## Having heartbreaks Like I do makes you code better apparently
 
 
 >> btw check my <span style="color: rgb(255, 225, 255);">[profile page on github.io](https://tharki-god.github.io/)</span>
