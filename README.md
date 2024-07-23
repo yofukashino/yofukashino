@@ -1,21 +1,22 @@
-### UwU Comrade
+### Womp Womp
 
 - Replugged is what I currently like to work on. (Your average Discord Client But Better)
 
 - JS/TS is what I love to work with
 
-- Never knew PY so learning it
-
 - Ex Discord.Js Bot Dev
+
+- Streams Sometimes
 
 - Looking for a job and is broke, (Pls hire me... *[insert sobbing ]*) 
 
+- Shrimp Snacker
 
 
 > "ew"
 
 
-## Having heartbreaks Like I do makes you code better apparently
+## having heartbreaks like i do makes you code better apparently
 
 
 >> btw check my <span style="color: rgb(255, 225, 255);">[profile page on github.io](https://YofukashiNo.github.io/)</span>
@@ -24,9 +25,9 @@
 
 
 
-<a href="https://www.youtube.com/watch?v=wh9QLjk3M2k" style="color: rgb(255, 225, 255); text-decoration: none;"><i>chipi chipi<br>chapa chapa<br>dubi dubi<br>daba daba<br>magico pony<br>dubi dubi<br>boom boom boom boom<br></i>
+<a href="https://www.youtube.com/watch?v=CG8ucav19Ew" style="color: rgb(255, 225, 255); text-decoration: none;"><i>valentine in december<br>you said you love me but you don't remember<br>my main you cause me pain (all girls are the same)<br>i don't love you now (all girls are the same)<br>i don't need you now (all girls are the same)<br></i>
 
-![meow](https://cdn.discordapp.com/attachments/1130574340472193067/1187866827364257923/chipi-chapa.gif) </a>
+![inside](https://i.imgur.com/9HbJtky.gif) </a>
 
 
 
