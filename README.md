@@ -6,11 +6,12 @@
 
 - Ex Discord.Js Bot Dev
 
-- Streams Sometimes
+- Streams Sometimes > [yofukashino_@twitch](https://www.twitch.tv/yofukashino_)  (Pls Follow me)
 
 - Looking for a job and is broke, (Pls hire me... *[insert sobbing ]*) 
 
 - pervet
+
 
 
 > "ew"
