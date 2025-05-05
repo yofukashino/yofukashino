@@ -17,7 +17,7 @@
 > "ew"
 
 
-## having heartbreaks like i do makes you code better apparently
+## only human hands can reach in hell. only human hands can tear it open! only we can feel the fire and call it home
 
 
 >> btw check my <span style="color: rgb(255, 225, 255);">[profile page on github.io](https://YofukashiNo.github.io/)</span>
